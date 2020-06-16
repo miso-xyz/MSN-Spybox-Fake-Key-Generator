@@ -1,2 +1,9 @@
-# MSN-Spybox-Fake-Key-Generator
-MSN Spybox Fake Keygen
+# MSN Spybox Fake Keygen Remake
+
+Tools used (to reverse):
+- Visual Studio 2010
+- Process Hacker
+- Slyther r.0
+
+# .prj Information
+- Built with .NET Framework 4 (Client Profile)
